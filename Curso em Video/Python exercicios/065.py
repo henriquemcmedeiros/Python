@@ -15,5 +15,3 @@ while n == "S":
         menor = num
 media = soma / numDigitados
 print(f"A média é de {media}, o número maior é {maior} o numero menor é {menor}")
-
-
